@@ -1,5 +1,6 @@
 # GitHub Docs <!-- omit in toc -->
-[![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
+[![Build GitHub Docs On Codespaces](https://gi
+neurosityco.com/codespaces/badge.svg)](https://github.com/chttps://medium.com/insights-of-nature/telekinesis-made-real-bci-technology-17b980fa279odespaces/new/?repo=githubhttps://arxiv.org/html/2503.16471v1)
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
